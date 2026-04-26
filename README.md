@@ -36,8 +36,9 @@ Each problem is stored in its own folder:
 
 ## 📈 Progress
 
-* ✅ Problem 01 Completed
-* ⏳ More problems coming daily...
+* ✅ Problem 01: Swap Variables (4 approaches)
+* ⏳ More problems coming...
+
 
 ---
 
