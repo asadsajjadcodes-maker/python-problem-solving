@@ -19,6 +19,7 @@ This repo contains my daily practice problems as I work toward becoming a high-l
 Each problem is stored in its own folder:
 
 * Problem_01 → Swap variables without using a third variable
+* Problem 02: Leap Year Checker
 * More coming soon...
 
 ---
