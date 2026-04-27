@@ -37,6 +37,7 @@ Each problem is stored in its own folder:
 ## 📈 Progress
 
 * ✅ Problem 01: Swap Variables (4 approaches)
+* ✅ Problem 02: Leap Year Checker
 * ⏳ More problems coming...
 
 
