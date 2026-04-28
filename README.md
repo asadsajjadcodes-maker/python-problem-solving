@@ -20,6 +20,7 @@ Each problem is stored in its own folder:
 
 * Problem_01 → Swap variables without using a third variable
 * Problem 02: Leap Year Checker
+* Problem 03: List Comprehensions
 * More coming soon...
 
 ---
@@ -39,6 +40,7 @@ Each problem is stored in its own folder:
 
 * ✅ Problem 01: Swap Variables (4 approaches)
 * ✅ Problem 02: Leap Year Checker
+* ✅ Problem 03: List Comprehensions
 * ⏳ More problems coming...
 
 
