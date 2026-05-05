@@ -22,6 +22,7 @@ Each problem is stored in its own folder:
 * Problem 02: Leap Year Checker
 * Problem 03: List Comprehensions
 * Problem 04: Second Largest Number
+* Problem 05: Second lowest score
 * More coming soon...
 
 ---
@@ -43,6 +44,7 @@ Each problem is stored in its own folder:
 * ✅ Problem 02: Leap Year Checker
 * ✅ Problem 03: List Comprehensions
 * ✅ Problem 04: Second Largest Number
+* ✅ Problem 05: Second lowest score
 * ⏳ More problems coming...
 
 
